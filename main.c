@@ -211,23 +211,3 @@ void save_angle_value(void)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
